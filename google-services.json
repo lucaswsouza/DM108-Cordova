@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "466882925195",
+    "firebase_url": "https://trabalho-dm108.firebaseio.com",
+    "project_id": "trabalho-dm108",
+    "storage_bucket": "trabalho-dm108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466882925195:android:d56706f14c4a692c",
+        "android_client_info": {
+          "package_name": "com.trab.gastolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466882925195-kdcd2lacjjp8pe067m221pgvlavhrvsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbjQc3Qk_D1Sw6nh6cEgAGMw-L1dliCqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
